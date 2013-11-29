@@ -7,10 +7,14 @@ Date: 11/29/2013</p>
 <h3>Pre-requisites</h3>
 <p>
 	<ul>
-		<li>Download Node.js at http://nodejs.org/</li>
-		<li>Current Version: v0.10.22 as of this post 11/29/2013</li>
+		<li>Download and Install Node.js at http://nodejs.org/</li>
+		<li>Version: v0.10.22 as of this post 11/29/2013</li>
 	</ul>
 </p>
+<p>Verify Node Installation, Open Terminal Window</p>
 ``` 
-CODE SNIPPET HERE
+$ node --version  [Enter]
+$ v0.10.22
+
 ```
+<br/>
