@@ -18,3 +18,22 @@ $ v0.10.22
 
 ```
 <br/>
+<p>Verify NPM Installation, In Terminal Window</p>
+``` 
+$ npm --version  [Enter]
+$ v1.3.14
+
+```
+<br/>
+<p>Install Bower using NPM, In Terminal Window</p>
+``` 
+$ sudo npm install -g bower  [Enter]
+```
+<br/>
+<p>Verify Bower Installation, In Terminal Window</p>
+``` 
+$ bower --version  [Enter]
+$ v1.2.7
+
+```
+<br/>
