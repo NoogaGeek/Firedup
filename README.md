@@ -43,3 +43,46 @@ $ yo --version  [Enter]
 $ v1.0.4
 ```
 <br/>
+<p>Install Basic Webapp and Angular Generators, In Terminal Window</p>
+```
+$ sudo npm install -g generator-webapp  [Enter] # installs basic webapp generator
+
+$ sudo npm install -g generator-angular  [Enter] # installs angular generator  
+```
+<br/>
+
+<p>Use Yeoman to Generate Angular Application Scaffold, In Terminal Window</p>
+```
+$ yo angular  [Enter]  # scaffold out a AngularJS project
+```
+<br/>
+
+<p>Use Bower to install Angular-UI dependency, In Terminal Window</p>
+```
+$ bower install angular-ui  [Enter]  # install a dependency for your project from Bower
+```
+<br/>
+
+<p>Use Grunt to run Karma test and start your app</p>
+```
+$ grunt test  [Enter] # test your app
+$ grunt server  [Enter] # preview your app
+```
+<br/>
+
+<h3>For additional info on generator-angular visit</h3>
+https://github.com/yeoman/generator-angular
+
+<p>Use Bower to install Twitter Bootstrap 3 Dependencies</p>
+```
+$ bower install bootstrap  [Enter] 
+```
+<br/>
+
+
+<p>Use Bower to install Firebase and Angular-Fire Dependencies</p>
+```
+$ bower install firebase  [Enter] 
+$ bower install angular-fire  [Enter]
+```
+<br/>
