@@ -15,25 +15,31 @@ Date: 11/29/2013</p>
 ``` 
 $ node --version  [Enter]
 $ v0.10.22
-
 ```
 <br/>
+
 <p>Verify NPM Installation, In Terminal Window</p>
 ``` 
 $ npm --version  [Enter]
 $ v1.3.14
+```
+<br/>
 
-```
-<br/>
-<p>Install Bower using NPM, In Terminal Window</p>
+<p>Install Bower Grunt-CLI and Yeoman using NPM, In Terminal Window</p>
 ``` 
-$ sudo npm install -g bower  [Enter]
+$ sudo npm install -g bower grunt-cli yo [Enter]
 ```
 <br/>
-<p>Verify Bower Installation, In Terminal Window</p>
+
+<p>Verify Bower Grunt-CLI and Yeoman Installation, In Terminal Window</p>
 ``` 
 $ bower --version  [Enter]
 $ v1.2.7
 
+$ grunt --version  [Enter]
+$ v0.1.11
+
+$ yo --version  [Enter]
+$ v1.0.4
 ```
 <br/>
